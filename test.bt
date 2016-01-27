@@ -33,41 +33,6 @@
             "type": "set"
           },
           {
-            "activated": false,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "name": "initialize",
-              "inputParams": [
-                {
-                  "key": "attributes.time.type",
-                  "type": "string",
-                  "value": "continuous"
-                },
-                {
-                  "key": "attributes.day.type",
-                  "type": "string",
-                  "value": "discrete"
-                },
-                {
-                  "key": "attributes.day.min",
-                  "type": "integer",
-                  "value": "0"
-                },
-                {
-                  "key": "attributes.day.max",
-                  "type": "integer",
-                  "value": "6"
-                }
-              ],
-              "outputParams": []
-            },
-            "children": [],
-            "id": "884ee518-f3b5-45b4-96e1-3244a5edbbe1",
-            "type": "action"
-          },
-          {
             "activated": true,
             "metadata": {
               "label": ""
