@@ -204,7 +204,7 @@
                 "type": "success"
               },
               {
-                "activated": false,
+                "activated": true,
                 "metadata": {
                   "label": "Learning"
                 },
