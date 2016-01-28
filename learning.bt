@@ -52,7 +52,7 @@
               "label": ""
             },
             "properties": {
-              "destination": "time",
+              "destination": "timestamp",
               "op": {
                 "type": "real",
                 "value": "-1"
