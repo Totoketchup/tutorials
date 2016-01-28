@@ -114,7 +114,7 @@
                             {
                               "key": "time",
                               "type": "entityKnowledge",
-                              "value": "time"
+                              "value": "timestamp"
                             },
                             {
                               "key": "value",
